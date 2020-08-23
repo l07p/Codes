@@ -10,7 +10,7 @@
                 "-std=c++2a",
                 "${workspaceFolder}/*.cpp",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\cpp20.exe"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
