@@ -7,6 +7,6 @@ private:
 
 public:
   Rect(double s1, double s2);
-  double get_area();
+  const double get_area() const;
 };
 #endif // RECT_H
