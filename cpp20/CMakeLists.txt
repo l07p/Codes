@@ -13,4 +13,4 @@ set(LIBRARY_OUTPUT_PATH $(CMAKE_BINARY_DIR))
 include_directories("${PROJECT_SOURCE_DIR}")
 
 # add the executable
-add_executable(test_cmake ${PROJECT_SOURCE_DIR}/test_cmake.cpp)
+add_executable(test_cmake ${PROJECT_SOURCE_DIR}/main.cpp)
