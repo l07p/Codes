@@ -1,3 +1,0 @@
-/home/ubuntu/GIT/DesignPatterns/cpp20/build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/GIT/DesignPatterns/cpp20/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/GIT/DesignPatterns/cpp20/build/CMakeFiles/test_cmake.dir
