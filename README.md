@@ -1,4 +1,6 @@
 ﻿# All codes
-scirips
-c++
-python
+## codes
+### c++
+### python
+## Scripts
+### Powershell
