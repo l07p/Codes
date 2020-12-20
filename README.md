@@ -3,7 +3,7 @@
 > ## codes
 >>  ### c++
 >>  ### python
->> ## Scripts
+> ## Scripts
 >>  ### Powershell
 >>>   #### function
 >>>    notice
