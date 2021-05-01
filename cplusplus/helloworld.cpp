@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
-   cout << "Hello World"; // 输出 Hello World
+   cout << "Hello World\n"; // output Hello World
+   cout << "Welcome to C++ in VSCode!\n";
    return 0;
 }
