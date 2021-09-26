@@ -7,5 +7,7 @@ int main()
 {
    cout << "Hello World\n"; // output Hello World
    cout << "Welcome to C++ in VSCode!\n";
+   int bob = 1;
+   cout << "Welcome" << bob << endl;
    return 0;
 }
