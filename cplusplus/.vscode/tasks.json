@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "C/C++: Build Debug",
+			"label": "Build Debug",
 			"command": "cl.exe",
 			"args": [
                 "/MDd",
