@@ -1,0 +1,4 @@
+ConsoleApplication1.a1:Debug|Win32:C:/GIT/Codes/cplusplus/vc/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp
+ConsoleApplication1.a2:Release|Win32:C:/GIT/Codes/cplusplus/vc/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp
+ConsoleApplication1.a3:Debug|x64:C:/GIT/Codes/cplusplus/vc/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp
+ConsoleApplication1.a4:Release|x64:C:/GIT/Codes/cplusplus/vc/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp

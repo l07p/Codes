@@ -5,7 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "g++.exe - Build and debug active file",
+            "name": "Attach to Edge",
+            "port": 9222,
+            "request": "attach",
+            "type": "pwa-msedge",
+            "webRoot": "${workspaceFolder}"
+        },
+    {
+        "args": [
+            "--extensionDevelopmentPath=${workspaceFolder}"
+        ],
+        "name": "Launch Extension",
+        "outFiles": [
+            "${workspaceFolder}/out/**/*.js"
+        ],
+        "preLaunchTask": "npm",
+        "request": "launch",
+        "type": "pwa-extensionHost"
+    },
+    
+        {
+            "name": "cl.exe Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
