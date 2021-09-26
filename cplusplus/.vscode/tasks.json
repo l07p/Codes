@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "C/C++: cl.exe build active file",
+			"label": "C/C++: Build Debug",
 			"command": "cl.exe",
 			"args": [
                 "/MDd",
@@ -19,6 +19,37 @@
 				"${fileDirname}\\Debug\\",
 				"/Fo:",
 				"${fileDirname}\\Debug\\",
+				"${file}"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: cl.exe"
+		}
+		{
+			"type": "cppbuild",
+			"label": "Build Release",
+			"command": "cl.exe",
+			"args": [
+                "/MDd",
+                "/W4",
+                "/EHsc",
+                "/nologo",
+                "/std:c++latest",
+                "/Od",
+				"/Fe:",
+				"${fileDirname}\\Release\\${fileBasenameNoExtension}.exe",
+				"/Fd:",
+				"${fileDirname}\\Release\\",
+				"/Fo:",
+				"${fileDirname}\\Release\\",
 				"${file}"
 			],
 			"options": {
