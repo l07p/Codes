@@ -19,7 +19,7 @@
 				"${fileDirname}\\Debug\\",
 				"/Fo:",
 				"${fileDirname}\\Debug\\",
-				"${file}"
+				"*.cpp"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
