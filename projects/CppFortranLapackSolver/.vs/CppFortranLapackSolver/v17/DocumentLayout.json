@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\Codes\\projects\\CppFortranLapackSolver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BCEDF5-2928-4608-831F-FF4F62B57559}|solver.f90\\solver.f90.vfproj|c:\\git\\codes\\projects\\cppfortranlapacksolver\\solver.f90\\solver.f90||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64BCEDF5-2928-4608-831F-FF4F62B57559}|solver.f90\\solver.f90.vfproj|solutionrelative:solver.f90\\solver.f90||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B18E520-66D4-48BE-BB71-B8B743BFEBB3}|CppFortranLapackSolver\\CppFortranLapackSolver.vcxproj|C:\\GIT\\Codes\\projects\\CppFortranLapackSolver\\CppFortranLapackSolver\\CppFortranLapackSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B18E520-66D4-48BE-BB71-B8B743BFEBB3}|CppFortranLapackSolver\\CppFortranLapackSolver.vcxproj|solutionrelative:CppFortranLapackSolver\\CppFortranLapackSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solver.f90",
+              "DocumentMoniker": "C:\\GIT\\Codes\\projects\\CppFortranLapackSolver\\solver.f90\\solver.f90",
+              "RelativeDocumentMoniker": "solver.f90\\solver.f90",
+              "ToolTip": "C:\\GIT\\Codes\\projects\\CppFortranLapackSolver\\solver.f90\\solver.f90",
+              "RelativeToolTip": "solver.f90\\solver.f90",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACHSURBVDhPvZPBDcAgCAClPxmtcYoO1ilMR8OnDQlEpT6kTXofNcETRKHWGhQAkNkIEbWgDowxDIJSyjSQufCUWWOn4ylIKcmqkXP2CXiDRQW8qWeTcRkWqQwRwS2wuAVcQl/G6ww4fR6XBfZkxZ2BbfP/l2j5LFh6yhZ\u002BqdqF5c9kmQr8hHADIeBJHT9TZrUAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2024-10-08T12:36:46.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CppFortranLapackSolver.cpp",
+              "DocumentMoniker": "C:\\GIT\\Codes\\projects\\CppFortranLapackSolver\\CppFortranLapackSolver\\CppFortranLapackSolver.cpp",
+              "RelativeDocumentMoniker": "CppFortranLapackSolver\\CppFortranLapackSolver.cpp",
+              "ToolTip": "C:\\GIT\\Codes\\projects\\CppFortranLapackSolver\\CppFortranLapackSolver\\CppFortranLapackSolver.cpp",
+              "RelativeToolTip": "CppFortranLapackSolver\\CppFortranLapackSolver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T11:30:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
