@@ -1,0 +1,66 @@
+*.psi
+*.exp
+*.class
+*.txt
+secret_config.yml
+build/
+temp/
+
+# Ignore log files
+*.log
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore Visual Studio/VSCode specific files
+.vscode/
+*.suo
+*.user
+*.csproj.user
+
+# Ignore build directories
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# Ignore object and binary files
+*.obj
+*.mod
+*.exe
+*.dll
+*.lib
+*.ilk
+*.pdb
+*.idb
+
+# Ignore precompiled header files
+*.pch
+*.gch
+
+# Ignore Fortran module files
+*.mod
+*.smod
+
+# Ignore VS temporary and cache files
+*.ipch
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Ignore Visual Studio auto-generated files
+*.vcxproj.user
+*.suo
+*.ncb
+*.user
+*.rsrc
+
+# Ignore output directories created by Visual Studio
+out/
+ipch/
+
